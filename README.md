@@ -1,2 +1,2 @@
 # Python-Learning
-Teach python programming language myself.
+Teach python programming language and self-taught.
