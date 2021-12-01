@@ -1,3 +1,6 @@
+# pip install pygame
+# ------------------
+
 # Import python packages
 import pygame, os
 
