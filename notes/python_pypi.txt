@@ -1,0 +1,1 @@
+pip install pyinstaller # to convert .py to .exe
