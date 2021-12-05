@@ -1,3 +1,5 @@
+# This method installation manually one-by-one
+
 pip install PyOpenGL
 pip install glfw
 pip install pyrr
