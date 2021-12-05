@@ -30,7 +30,6 @@ edges = (
     (5,7)
     )
 
-
 def Cube():
     glBegin(GL_LINES)
     for edge in edges:
