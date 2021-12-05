@@ -1,0 +1,14 @@
+# pip install -r requirements.txt
+# PyOpenGL
+# glfw
+# pyrr
+# Pillow
+# pygame
+
+# ---------------------------------
+
+pip install PyOpenGL
+pip install glfw
+pip install pyrr
+pip install Pillow
+pip install pygame
