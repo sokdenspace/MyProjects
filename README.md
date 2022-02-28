@@ -1,2 +1,2 @@
 # My Projects
-Teach python programming language and self-taught.
+Teach Programming languages and self-taught.
